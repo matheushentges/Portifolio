@@ -7,9 +7,9 @@ import {
   DiNodejs,
   DiPhp,
   DiGit,
+  DiMysql,
 } from "react-icons/di";
 import {
-  DiMysql,
   SiCplusplus,
 } from "react-icons/si";
 
