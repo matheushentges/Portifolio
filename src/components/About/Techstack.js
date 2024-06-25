@@ -7,10 +7,10 @@ import {
   DiNodejs,
   DiPhp,
   DiGit,
-  DiMysql,
 } from "react-icons/di";
 import {
   SiCplusplus,
+  SiMysql,
 } from "react-icons/si";
 
 
@@ -33,7 +33,7 @@ function Techstack() {
         <DiGit />
       </Col>
       <Col xs={4} md={2} className="tech-icons">
-        <DiMysql />
+        <SiMysql />
       </Col>
     </Row>
   );
