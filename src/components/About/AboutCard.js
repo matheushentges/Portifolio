@@ -8,32 +8,32 @@ function AboutCard() {
       <Card.Body>
         <blockquote className="blockquote mb-0">
           <p style={{ textAlign: "justify" }}>
-            Hi Everyone, I am <span className="purple">Matheus Hentges </span>
+            Olá, me chamo <span className="purple">Matheus Hentges </span>
             from <span className="purple"> Chapecó, Brasil.</span>
             <br />
             Sou desenvolvedor freelancer há 1 ano.
             <br />
-            Sou formado em análise e desenvolvimento de sistemas - 2023
+            Sou formado em análise e desenvolvimento de sistemas
             <br />
             <br />
             Entusiasmado e apaixonado pelo mundo da tecnologia!
           </p>
           <ul>
             <li className="about-activity">
-              <ImPointRight /> Playing Games
+              <ImPointRight /> Estudando programação
             </li>
             <li className="about-activity">
-              <ImPointRight /> Writing Tech Blogs
+              <ImPointRight /> Lendo livros
             </li>
             <li className="about-activity">
-              <ImPointRight /> Travelling
+              <ImPointRight /> Viajando
             </li>
           </ul>
 
           <p style={{ color: "rgb(155 126 172)" }}>
-            "Strive to build things that make a difference!"{" "}
+            "A única maneira de fazer algo excelente é amar o que você faz. Se você ainda não a encontrou, continue procurando. Não se acomode"{" "}
           </p>
-          <footer className="blockquote-footer">Soumyajit</footer>
+          <footer className="blockquote-footer">Steve Jobs</footer>
         </blockquote>
       </Card.Body>
     </Card>
